@@ -1,0 +1,43 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: aliceblue;
+} */
+
+/* .login-container .form__center {
+  height: 70% !important;
+  width: 400px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+} */
+
+/* form input[type="text"], input[type="password"] {
+    width: 200px;
+}
+
+#btn-submit {
+    width: 200px;
+} */
+
+/* .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* form {
+  width: 300px;
+  box-sizing: border-box;
+} */
